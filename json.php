@@ -1,10 +1,10 @@
 <?php
    
-    $servername = "203.124.43.228";
+    $servername = "";
  
     // Give your username and password
-    $username = "newfescocom";
-    $password = "F!@.vlSnK+f~";
+    $username = "";
+    $password = "";
  
    // Give your Database name
     $dbname = "newfesco_db";
