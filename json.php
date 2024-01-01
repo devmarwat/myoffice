@@ -7,7 +7,7 @@
     $password = "";
  
    // Give your Database name
-    $dbname = "newfesco_db";
+    $dbname = "";
  
   // Give your table name
     $table = "active_users"; // lets create a table named Employees.
