@@ -1,6 +1,6 @@
 <?php
    
-    $servername = "localhost";
+    $servername = "203.124.43.228";
  
     // Give your username and password
     $username = "newfescocom";
